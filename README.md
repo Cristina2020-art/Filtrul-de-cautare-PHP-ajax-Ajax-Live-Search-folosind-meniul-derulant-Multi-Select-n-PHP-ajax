@@ -1,1 +1,1 @@
-# Filtrul-de-c-utare-PHP-ajax-Ajax-Live-Search-folosind-meniul-derulant-Multi-Select-n-PHP-ajax
+# Filtrul-de-cautare-PHP-ajax-Ajax-Live-Search-folosind-meniul-derulant-Multi-Select-n-PHP-ajax
